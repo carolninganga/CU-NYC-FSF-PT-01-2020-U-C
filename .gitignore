@@ -70,3 +70,4 @@ yarn.lock
 
 # vscode
 .vscode
+.DS_Store
