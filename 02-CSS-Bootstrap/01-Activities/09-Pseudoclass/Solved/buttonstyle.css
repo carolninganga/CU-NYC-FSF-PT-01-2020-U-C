@@ -32,3 +32,22 @@ a:focus {
 a:active {
   background-color: black;
 }
+
+button {
+  margin:auto;
+  width:200px;
+  height:100px;  
+  background-color: cornflowerblue;
+}
+
+button:hover {
+  background-color: blue;
+}
+
+button:focus {
+  background-color: blueviolet;
+}
+
+button:active {
+  background-color: chartreuse;
+}
